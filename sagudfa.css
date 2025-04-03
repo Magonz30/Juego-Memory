@@ -1,0 +1,96 @@
+
+.grid-container {
+    display: grid;
+    grid-template-columns:  150px 150px 150px 150px ;
+    gap: 10px;
+   margin: 100px;
+    padding: 100px;
+}
+
+
+.rojo {
+    background-color: #e21616;
+    color: #070101;
+    padding: 10px;
+    font-size: 30px;
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+}
+.amarillo{
+    background-color: rgba(221, 173, 13, 0.8);
+    color: #000;
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+
+}
+.azul{
+    background-color: #1545e3;
+    color: #000;
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+
+}
+.gris {
+    background-color: #676060;
+    color: #000;
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+
+}
+.morado {
+    background-color: #4d30b8;
+    color: #000;
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+
+}
+.naranja {
+    background-color: #f35836;
+    color: #000;
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+
+}
+.negro {
+    background-color: #000000;
+    color: #000;
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+
+}
+.verde {
+    background-color: #156a04;
+    color: #000;
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+}
+
