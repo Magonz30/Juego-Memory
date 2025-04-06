@@ -1,96 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("https://p.turbosquid.com/ts-thumb/3i/4bFkh6/NlGWRO2r/side_1_2/jpg/1471369651/600x600/fit_q87/9800849b00275bde4370f4dba079682bb405acf1/side_1_2.jpg");
+}
 
+.boton {
+    margin-left: 820px;
+    margin-top: 60px;
+    height: 40px;
+   width: 60px;
+}
 .grid-container {
     display: grid;
-    grid-template-columns:  150px 150px 150px 150px ;
-    gap: 10px;
-   margin: 100px;
-    padding: 100px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 10px;
+    padding: 300px;
 }
+
 
 
 .rojo {
     background-color: #e21616;
     color: #070101;
     padding: 10px;
-    font-size: 30px;
     width: 100px;
     height: 100px;
-    margin: 25px;
+border-radius: 10px;
+    border: 3px solid black;
 }
 .amarillo{
     background-color: rgba(221, 173, 13, 0.8);
     color: #000;
     padding: 10px;
-    font-size: 30px;
-    text-align: center;
+
     width: 100px;
     height: 100px;
-    margin: 25px;
-
+    border-radius: 10px;
+    border: 3px solid black;
 }
 .azul{
     background-color: #1545e3;
     color: #000;
     padding: 10px;
-    font-size: 30px;
-    text-align: center;
+
     width: 100px;
     height: 100px;
-    margin: 25px;
-
+    border-radius: 10px;
+    border: 3px solid black;
 }
 .gris {
     background-color: #676060;
     color: #000;
     padding: 10px;
-    font-size: 30px;
-    text-align: center;
+
     width: 100px;
     height: 100px;
-    margin: 25px;
-
+    border-radius: 10px;
+    border: 3px solid black;
 }
 .morado {
     background-color: #4d30b8;
     color: #000;
     padding: 10px;
-    font-size: 30px;
-    text-align: center;
+
     width: 100px;
     height: 100px;
-    margin: 25px;
-
+    border-radius: 10px;
+    border: 3px solid black;
 }
 .naranja {
     background-color: #f35836;
     color: #000;
     padding: 10px;
-    font-size: 30px;
-    text-align: center;
+
     width: 100px;
     height: 100px;
-    margin: 25px;
-
+    border-radius: 10px;
+    border: 3px solid black;
 }
 .negro {
     background-color: #000000;
     color: #000;
     padding: 10px;
-    font-size: 30px;
-    text-align: center;
+;
     width: 100px;
     height: 100px;
-    margin: 25px;
-
+    border-radius: 10px;
+    border: 3px solid black;
 }
 .verde {
     background-color: #156a04;
     color: #000;
     padding: 10px;
-    font-size: 30px;
-    text-align: center;
+
     width: 100px;
     height: 100px;
-    margin: 25px;
+    border-radius: 10px;
+    border: 3px solid black;
 }
 
